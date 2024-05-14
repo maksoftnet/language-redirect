@@ -32,6 +32,7 @@ function custom_language_switcher($items, $args) {
             'en' => 'https://en.usb-travel.com',
             'bg' => 'https://bg.usb-travel.com',
             'ru' => 'https://ru.usb-travel.com'
+            'fr' => 'https://fr.usb-travel.com'
         );
 
         // Вземане на текущия език на сайта
